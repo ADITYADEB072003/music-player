@@ -1,0 +1,70 @@
+audio{
+    
+    border: 2px solid red;
+    margin-left:0PX 20PX 0PX 20PX;
+}
+.h21{
+    text-align: center;
+    border:0px ;
+color:#1C2833 
+;
+    border-style:double;
+    background-color:#F4D03F ;
+    
+}
+button{
+border:1.0px solid red;
+  left:29.56%;
+    right:29.56%;
+    text-transform: capitalize;
+    color:black ;
+    background-color:#3498DB 
+;
+    font-weight: bolder;
+ margin:10px 30px 0px 20px;
+position: relative;
+}
+p{  text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color: #2ECC71;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+ hr{
+    
+    
+
+}
+FOOTER{
+        position:static;
+         text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color:black;
+    color:chartreuse;
+     font-family: sans-serif;
+     font-weight: bolder;
+        font-style: oblique;
+    margin-bottom:10PX;
+    }
+
+body{
+    margin:10px 30px 0px 20px;
+    background-image:url(R7b5952b5acd6711ab7aa04ff4a9a1616.jfif);
+    background-repeat:repeat;
+}
+
+@media (max-width:599px){}
+@media(max-width:600px){
+    
+}
+    @media(max-width:900px){
+    
+}
+@media(max-width:1200px){
+    
+}
+@media(max-width:18s00px){
+    
+}

@@ -1,0 +1,68 @@
+header{
+        
+        text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color: black;
+    color:white;
+     font-family: sans-serif;
+     font-weight: bolder;
+    }
+    FOOTER{
+        
+         text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color:black;
+    color:chartreuse;
+     font-family: sans-serif;
+     font-weight: bolder;
+        font-style: oblique;
+    }
+    p{
+    background-color: chocolate;
+    color:black;
+    font-weight: bolder;
+}
+    hr{
+    
+    border:2px dashed blue;
+
+}
+    
+    
+.HEADING{
+    text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color: #46cdcf;
+    
+    
+}
+body{
+    text-transform: uppercase;
+     text-align:center;
+    background-image: url("bg.jpg");
+    font-family: sans-serif;
+      font-size: 10pt;
+
+}
+a:hover{
+   
+    color: red;
+}
+a{color: dodgerblue;
+    font-weight: bolder;
+    border-top-width: medium;
+    border-style: ridge;
+    border-color: brown;
+}
+.sub-head{
+     text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color: #46cdcf;
+    color
+    
+    
+}
